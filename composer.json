@@ -1,0 +1,11 @@
+{
+  "name": "benjaminmedia/wp-custom-post-image",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/BenjaminMedia/wp-custom-post-image",
+  "license": "GPLv3",
+  "description": "Custom post 's images for faster loading",
+  "keywords": ["plugin"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}

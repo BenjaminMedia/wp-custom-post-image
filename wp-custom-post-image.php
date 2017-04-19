@@ -2,7 +2,7 @@
 /**
  * @package custom post image
  * Plugin Name: Custom post image
- * Version: 0.1
+ * Version: 0.2
  * Description: Custom post 's images for faster loading
  * Author: Niteco
  * Author URI: http://niteco.se/
