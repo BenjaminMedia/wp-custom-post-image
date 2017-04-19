@@ -12,7 +12,7 @@
  */
 
 if (!defined('CUSTOM_IMAGE_WIDTH')) {
-    define('CUSTOM_IMAGE_WIDTH', 1250);
+    define('CUSTOM_IMAGE_WIDTH', 1400);
 }
 if (!defined('CUSTOM_IMAGE_SIZE')) {
     define('CUSTOM_IMAGE_SIZE', 'medium_large'. CUSTOM_IMAGE_WIDTH);
